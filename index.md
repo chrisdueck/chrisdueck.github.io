@@ -1,10 +1,42 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: splash
-title: Software Engineer
+title: Hello!
 header:
-    overlay_image: /assets/images/header.jpg
-    caption: "[Photo: **Unsplash**](https://unsplash.com/photos/FO7JIlwjOtU)"
+    overlay_image: /assets/images/splash.jpg
+    caption: |
+      [Photo: **Unsplash** <i class="fas fa-external-link-alt"></i>](https://unsplash.com/photos/zAjdgNXsMeg)
+    actions:
+        - label: <i class='fas fa-file-pdf'></i> Read my CV
+          url: assets/cv.pdf
+
+excerpt: |
+      I'm Chris, a final year computer science student.
+
+feature_row:
+    - image_path: assets/images/work.jpg
+      alt: Industry Experience
+      title: Industry Experience
+      image_caption: |
+        [Photo <i class="fas fa-external-link-alt"></i>](https://unsplash.com/photos/cckf4TsHAuw)
+      excerpt: 1 year of professional experience in web development.
+      url: /work/
+      btn_class: "btn--primary"
+    - image_path: assets/images/books.jpg
+      alt: Academic Performance
+      title: Academic Performance
+      image_caption: |
+        [Photo <i class="fas fa-external-link-alt"></i>](https://unsplash.com/photos/NIJuEQw0RKg)
+      excerpt: On track for a 1st in BSc (Hons) Computer Science.
+      url: /edu/
+      btn_class: "btn--primary"
+    - image_path: assets/images/lightbulb.jpg
+      alt: Projects
+      title: Projects
+      image_caption: |
+        [Photo <i class="fas fa-external-link-alt"></i>](https://unsplash.com/photos/fmTde1Fe23A)
+      excerpt: Things I've built, by myself and with others.
+      url: /projects/
+      btn_class: "btn--primary"
 ---
+
+{% include feature_row %}
