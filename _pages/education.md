@@ -2,13 +2,16 @@
 layout: single
 title: "Education"
 permalink: /edu/
+classes: wide
 header:
     overlay_image: /assets/images/header.jpg
-    caption: "[Photo by Alexandre Debiève **(Unsplash)**](https://unsplash.com/photos/FO7JIlwjOtU)"
+    caption: "[Photo: **Unsplash**](https://unsplash.com/photos/FO7JIlwjOtU)"
 ---
 
 ## BSc Computer Science
 *University of Surrey, Sept 2017 - Present*
+
+![image](/assets/images/uni.png){: style="float: right; width: 10em;"}
 
 * On track for a 1st class degree
 * Second year average: 87%
@@ -35,3 +38,11 @@ header:
 * Triple Science - A*AA
 * English Language - B
 
+<br />
+<div>
+    <sub>
+        Icons made by <a href="https://www.flaticon.com/authors/freepik"
+        title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/"
+        title="Flaticon">www.flaticon.com</a>
+    </sub>
+</div>
