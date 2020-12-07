@@ -6,7 +6,7 @@ toc: true
 toc_sticky: true
 #classes: wide
 header:
-    overlay_image: /assets/images/header.jpg
+    overlay_image: /assets/images/header_projects.jpg
     caption: |
       [Photo: **Unsplash** <i class="fas fa-external-link-alt"></i>](https://unsplash.com/photos/FO7JIlwjOtU)
 ---
@@ -62,8 +62,6 @@ style="width: 32em;"}
   area of caches you can open.
 
 <br />
-<div>
-    <sub>
-        Icons made by <a href="https://www.flaticon.com/authors/ddara" title="dDara">dDara</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
-    </sub>
-</div>
+<sub>
+    Icons made by <a href="https://www.flaticon.com/authors/ddara" title="dDara">dDara</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+</sub>

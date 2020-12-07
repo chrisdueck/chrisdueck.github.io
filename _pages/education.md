@@ -4,9 +4,9 @@ title: "Education"
 permalink: /edu/
 classes: wide
 header:
-    overlay_image: /assets/images/header.jpg
+    overlay_image: /assets/images/header_edu.jpg
     caption: |
-      [Photo: **Unsplash** <i class="fas fa-external-link-alt"></i>](https://unsplash.com/photos/FO7JIlwjOtU)
+      [Photo: **Unsplash** <i class="fas fa-external-link-alt"></i>](https://unsplash.com/photos/ObqRu3VNDSE)
 ---
 
 ## BSc Computer Science
@@ -40,10 +40,8 @@ header:
 * English Language - B
 
 <br />
-<div>
-    <sub>
-        Icons made by <a href="https://www.flaticon.com/authors/freepik"
-        title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/"
-        title="Flaticon">www.flaticon.com</a>
-    </sub>
-</div>
+<sub>
+    Icons made by <a href="https://www.flaticon.com/authors/freepik"
+    title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/"
+    title="Flaticon">www.flaticon.com</a>
+</sub>
