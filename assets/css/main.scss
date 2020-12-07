@@ -3,6 +3,11 @@
 --- 
 @charset "utf-8";
 
+$primary-color: goldenrod;
+$primary-alt-color: darkgoldenrod;
+$link-color: $primary-color;
+$background-color: rgb(36, 36, 36);
+
 @import url('https://fonts.googleapis.com/css2?family=Norican&display=swap');
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
