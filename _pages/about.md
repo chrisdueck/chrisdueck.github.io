@@ -51,6 +51,6 @@ My more recent hobbies include gaming and the occasional spot of physical
 exercise at the gym. I can also play the guitar and solve Rubik's cubes reasonably
 quickly, though I don't do either very often anymore!
 
-<div style="width: 500px;">
+<div style="width: 30em;">
 {% include video id="ROeP5ck-hSE?start=13&end=27&modestbranding=1" provider="youtube" %}
 </div>
