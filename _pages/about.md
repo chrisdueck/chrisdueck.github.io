@@ -47,9 +47,9 @@ charity, namely the [RAFA](https://www.rafa.org.uk/), the
 [JTYAF](https://www.jtyaf.org/) and [CALM](https://www.thecalmzone.net/). The
 hikes took place in the Brecon Beacons, on the Ridgeway and through Dartmoor.
 
-My more recent hobbies include gaming and the occasional spot of physical
-exercise at the gym. I can also play the guitar and solve Rubik's cubes reasonably
-quickly, though I don't do either very often anymore!
+My hobbies nowadays include gaming and working out at the gym. I also play the
+guitar and can solve Rubik's cubes reasonably quickly, though I don't do either
+very often anymore!
 
 <div style="width: 30em;">
 {% include video id="ROeP5ck-hSE?start=13&end=27&modestbranding=1" provider="youtube" %}

@@ -28,9 +28,22 @@ header:
     - Completion of UX Training course.
     - Completion of 'Introduction to Application Security'.
 
+## Student Ambassador
+*University of Surrey, October 2017 - June 2019*
+
+* Promoted higher education to under-represented groups.
+* Assisted prospective students at open days.
+* Answered phone calls on A-level results day.
+* Helped to run a week-long engineer summer school.
+
+## Lab Demonstrator
+*University of Surrey, October 2018 - June 2019*
+
+* Assisted in first year Computer Science labs for Programming Fundamentals and
+  Software Engineering modules.
+* Answered questions and helped with debugging of first-year students' code.
+
 <br />
-<div>
-    <sub>
-        Icons made by <a href="https://www.flaticon.com/free-icon/computer_2811152?related_item_id=2811152&term=software" title="ultimatearm">ultimatearm</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
-    </sub>
-</div>
+<sub>
+    Icons made by <a href="https://www.flaticon.com/free-icon/computer_2811152?related_item_id=2811152&term=software" title="ultimatearm">ultimatearm</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+</sub>
