@@ -12,7 +12,7 @@ header:
 ---
 
 ## This Website!
-*Personal Project, 2020*
+*Side Project, 2020*
 
 ![image](/assets/images/project.png){: style="float: right; width: 6em;"}
 
@@ -22,14 +22,19 @@ header:
 * All the content is written in markdown.
 * Created as a portfolio of my experience in software development.
 
-## View Synchronisation Tester
-*University Final Year Project, Ongoing*
+## Unity Ball Bouncing Game
+*Side Project, 2019*
 
-* Evaluating view synchronisation methods for Byzantine Consensus with a
-  software test bench.
-* Web application developed in the Phoenix framework with Elixir.
-* Configure a test run with a number of processes and view live feedback and
-  performance statistics.
+Bounce a ball on the bar for as long as possible. Avoid the falling rocks,
+bombs and skulls which will destroy you. Catch bonus lives to keep you in the
+game for longer. Every 15 seconds the spawn rate of the obstacles will increase,
+making the game progressively harder.
+
+* Written in C# using free assets from the Unity Asset Store.
+* Built for Android, controlled by touching either side of the screen.
+* Includes sound and particle effects for all collisions.
+
+![image](/assets/images/bouncinggame.gif)
 
 ## Massive Music Online
 *University Project, 2018*
