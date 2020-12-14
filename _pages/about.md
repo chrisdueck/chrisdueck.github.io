@@ -51,6 +51,4 @@ My hobbies nowadays include gaming and working out at the gym. I also play the
 guitar and can solve Rubik's cubes reasonably quickly, though I don't do either
 very often anymore!
 
-<div style="width: 30em;">
-{% include video id="ROeP5ck-hSE?start=13&end=27&modestbranding=1" provider="youtube" %}
-</div>
+![Solving a Rubik's cube](/assets/images/cube.gif){: style="width: 32em"}

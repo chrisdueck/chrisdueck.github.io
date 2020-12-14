@@ -36,6 +36,22 @@ making the game progressively harder.
 
 ![image](/assets/images/bouncinggame.gif)
 
+## GitFit
+*University Team Project, 2019*
+
+![image](/assets/images/gitfit-screenshot.jpg){: style="float: right; width:
+12em; margin-left: 5px;"}
+
+* Android application written in Java.
+* Allowed users to track health data and complete challenges with friends.
+* Contributions:
+    - Storage of user data. User stats were stored in Cloud Firestore, while
+      personal data was restricted to local storage for privacy.
+    - Developed core UI for viewing stats and challenge progress over time.
+    - Managed development meetings, wrote and distributed minutes.
+    - Developed functionality for approximating calories burned while walking.
+    - Aided other team members in testing and bug fixing.
+
 ## Massive Music Online
 *University Project, 2018*
 
