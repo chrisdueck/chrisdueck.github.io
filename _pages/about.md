@@ -4,14 +4,15 @@ title: "About"
 permalink: /about/
 classes: wide
 header:
-    overlay_image: /assets/images/header_about.jpg
-    caption: |
-      [Photo: **Unsplash** <i class="fas fa-external-link-alt"></i>](https://unsplash.com/photos/bUpwY7EdrlQ)
+  overlay_image: /assets/images/header_about.jpg
+  caption: |
+    [Photo: **Unsplash** <i class="fas fa-external-link-alt"></i>](https://unsplash.com/photos/bUpwY7EdrlQ)
 ---
 
 I'm a student at the University of Surrey, studying for a BSc (Hons) Computer
-Science. So far I'm on track to achieve a first class degree, with an average of
-87% in my second year. At university I've worked as a Student Ambassador and Lab
+Science. I'm currently working on my dissertation project on the topic of
+Byzantine Consensus in distributed systems and am on track to achieve a 1st
+class degree. While at university I've worked as a Student Ambassador and Lab
 Demonstrator, as well as volunteering as a course representative for my cohort.
 
 In 2019 I was lucky enough to receive the Gold-i Prize for achieving the highest
@@ -19,13 +20,13 @@ performance in my second year module 'Further Programming Paradigms', which
 covered advanced OOP in C++, Functional Programming in Haskell and Logic
 Programming in Prolog.
 
-I recently completed a placement year as a full-time Software Engineer at Xceptor, where I
-worked primarily with *C#, AngularJS and SQL Server* to develop new features for a
-large web-based automation platform used by global financial clients.
+I recently completed a placement year as a full-time Software Engineer at
+Xceptor, where I worked in an agile scrum team, primarily using _C#, AngularJS
+and SQL Server_ to develop new features for a large web-based automation
+platform used internationally by large financial clients.
 
-Whenever I've got enough free time, I like working on my own coding projects,
-some of which you can read about [here.](/projects/) I hope to update this more
-soon.
+Whenever I have enough free time, I like working on my own coding projects, some
+of which you can read about [here.](/projects/) I hope to update this more soon.
 
 {% include figure image_path="/assets/images/dow_me.jpg" alt="Duke Of
 Westminster Award" caption="At the House of Lords, 2016" %}{:
@@ -47,8 +48,8 @@ charity, namely the [RAFA](https://www.rafa.org.uk/), the
 [JTYAF](https://www.jtyaf.org/) and [CALM](https://www.thecalmzone.net/). The
 hikes took place in the Brecon Beacons, on the Ridgeway and through Dartmoor.
 
-My hobbies nowadays include gaming and working out at the gym. I also play the
-guitar and can solve Rubik's cubes reasonably quickly, though I don't do either
-very often anymore!
+My hobbies nowadays include gaming and working out at ~~the gym~~ **home**. I
+also play the guitar and can solve Rubik's cubes reasonably quickly, though I
+don't do either very often anymore!
 
 ![Solving a Rubik's cube](/assets/images/cube.gif){: style="width: 32em"}
