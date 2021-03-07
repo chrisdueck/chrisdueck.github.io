@@ -11,6 +11,43 @@ header:
     [Photo: **Unsplash** <i class="fas fa-external-link-alt"></i>](https://unsplash.com/photos/FO7JIlwjOtU)
 ---
 
+# In Progress
+
+## Algorithm Testing Platform for Byzantine Consensus
+
+_University Final Year Project, 2020/2021_
+
+![image](/assets/images/consensus.png){: style="float: right; width: 8em;"}
+
+- Creating a web application for testing view synchronisation algorithms.
+- Written in Elixir, using the Phoenix web framework.
+- Able to create tests for algorithms to run across a distributed set of
+  nodes and track their progress on screen in real-time, using Phoenix
+  LiveView.
+- Able to set up Byzantine (malicious) nodes which try to interfere with the
+  algorithm's progress and safety.
+- Full logging for each run so that later analysis can be carried out.
+
+## Lyric-based Musical Genre Classification
+
+_University Group Project, 2021_
+
+![image](/assets/images/nlp.png){: style="float: right; width: 7em;"}
+
+- Creating a Natural Language Processing model to identify a song's possible
+  genres from reading its lyrics.
+- Built the lyrics dataset for training/testing with a Python script that takes
+  tracks from Last.fm's existing dataset of song IDs and tags, and queried the
+  Genius API to collect ordered lyrics for each.
+- Experimenting with data preprocessing, tokenisation, models and tuning of
+  hyperparameters using a range of Python libraries (Pandas, NLTK, Scikit-learn,
+  Gensim, SpaCy etc.)
+- Final model to be deployed online with basic CI/CD pipeline.
+
+<br>
+
+# Past Projects
+
 ## This Website!
 
 _Side Project, 2020_
@@ -38,6 +75,9 @@ score increases with each second played until out of lives.
 
 ![image](/assets/images/bouncinggame.gif)
 
+<sup>To view this project on GitHub, <a
+href="https://github.com/chrisdueck/bouncing-game">click here.</a></sup>
+
 ## GitFit
 
 _University Team Project, 2019_
@@ -60,6 +100,7 @@ _University Team Project, 2019_
 _University Project, 2018_
 
 - Web application created with the Ruby on Rails framework.
+- Included use of jQuery and AJAX for a more dynamic and responsive UI.
 - Features:
   - Manage and view songs, albums and artists.
   - User account creation - login/sign-up.
@@ -87,7 +128,8 @@ _University Project, 2018_
 - Using the GoogleMaps API, the app displays your current location and marks the
   area of caches you can open.
 
-<br />
-<sub>
-    Icons made by <a href="https://www.flaticon.com/authors/ddara" title="dDara">dDara</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
-</sub>
+<br /> <sub> Icons made by <a href="https://www.flaticon.com/authors/eucalyp"
+title="Eucalyp">Eucalyp</a>, <a href="https://www.freepik.com"
+title="Freepik">Freepik</a> and <a href="https://www.flaticon.com/authors/ddara"
+title="dDara">dDara</a> from <a href="https://www.flaticon.com/"
+title="Flaticon">www.flaticon.com</a> </sub>
