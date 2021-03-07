@@ -13,22 +13,26 @@ header:
 
 _Xceptor, July 2019 - August 2020_
 
-![image](/assets/images/computer.png){: style="float: right; width: 10em;"}
+![image](/assets/images/computer.png){: style="float: right; width: 12em;"}
 
-- Professional placement year
+One year placement role developing Xceptor, a highly configurable, web-based
+process automation product for global financial organisations.
 
-- Key experience:
+Key experience:
 
-  - Product improvements, new features and bug fixes (C#, AngularJS, T-SQL)
-  - Automated testing (NUnit, Jasmine)
-  - Version control (Git, Azure DevOps)
-  - CI/CD pipeline improvements (Azure Pipelines)
-  - Performance testing (JMeter)
+- Development of new features and bug fixes, using C#, AngularJS and MS-SQL.
+- Communicating with clients to understand use cases and resolve issues.
+- Agile (Scrum) development practices including frequent peer review.
+- Unit testing with NUnit and Jasmine.
+- Use of version control (Git, Azure DevOps).
+- CI/CD pipeline improvements.
+- Application performance testing with JMeter.
 
-- Achievements:
-  - Company Hackathon - 3rd Place.
-  - Completion of external UX Training course.
-  - Completion of internal Introduction to Application Security.
+Achievements:
+
+- Came in 3rd Place at an internal hackathon alongside a team of other engineers.
+- Completed external UX Training course.
+- Completed internal 'Introduction to Application Security'.
 
 ## Student Ambassador
 
