@@ -36,7 +36,7 @@ feature_row:
     title: Creative Projects
     image_caption: |
       [Photo <i class="fas fa-external-link-alt"></i>](https://unsplash.com/photos/fmTde1Fe23A)
-    excerpt: Things I've wokred on in my spare time and at university.
+    excerpt: Things I've worked on in my spare time and at university.
     url: /projects/
     btn_class: "btn--primary"
 ---
