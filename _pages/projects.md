@@ -13,20 +13,28 @@ header:
 
 # In Progress
 
+_I'm currently taking a break from new projects as I've just finished my
+bachelor's degree. Check back soon!_
+
+<br>
+
+# Past Projects
+
 ## Algorithm Testing Platform for Byzantine Consensus
 
 _University Final Year Project, 2020/2021_
 
 ![image](/assets/images/consensus.png){: style="float: right; width: 8em;"}
 
-- Creating a web application for testing view synchronisation algorithms.
-- Written in Elixir, using the Phoenix web framework.
+- Created a web application for testing view synchronisation algorithms. Written
+  in Elixir, using the Phoenix web framework.
 - Able to create tests for algorithms to run across a distributed set of
   nodes and track their progress on screen in real-time, using Phoenix
   LiveView.
 - Able to set up Byzantine (malicious) nodes which try to interfere with the
   algorithm's progress and safety.
-- Full logging for each run so that later analysis can be carried out.
+- Used logging capabilities to carry out an analysis and critical evaluation of
+  algorithm performance.
 
 ## Lyric-based Musical Genre Classification
 
@@ -34,19 +42,16 @@ _University Group Project, 2021_
 
 ![image](/assets/images/nlp.png){: style="float: right; width: 7em;"}
 
-- Creating a Natural Language Processing model to identify a song's possible
+- Created a Natural Language Processing model to identify a song's possible
   genres from reading its lyrics.
 - Built the lyrics dataset for training/testing with a Python script that takes
   tracks from Last.fm's existing dataset of song IDs and tags, and queried the
   Genius API to collect ordered lyrics for each.
-- Experimenting with data preprocessing, tokenisation, models and tuning of
+- Experimented with data preprocessing, tokenisation, models and tuning of
   hyperparameters using a range of Python libraries (Pandas, NLTK, Scikit-learn,
   Gensim, SpaCy etc.)
-- Final model to be deployed online with basic CI/CD pipeline.
-
-<br>
-
-# Past Projects
+- Final model deployed online with REST API and a gitlab CI/CD pipeline which
+  updates saved model weights whenever new data is added to the repo.
 
 ## This Website!
 
