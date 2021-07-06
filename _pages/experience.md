@@ -11,6 +11,8 @@ header:
 
 ## Software Engineer
 
+_Avco Systems, July 2021 - Present_
+
 _Xceptor, July 2019 - August 2020_
 
 ![image](/assets/images/computer.png){: style="float: right; width: 12em;"}

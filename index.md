@@ -12,7 +12,7 @@ header:
       url: assets/cv.pdf
 
 excerpt: |
-  I'm Chris, a final year Computer Science student.
+  I'm Chris, a Computer Science graduate and Software Engineer.
 
 feature_row:
   - image_path: assets/images/work.jpg
@@ -20,7 +20,7 @@ feature_row:
     title: Industry Experience
     image_caption: |
       [Photo <i class="fas fa-external-link-alt"></i>](https://unsplash.com/photos/cckf4TsHAuw)
-    excerpt: 1 year of professional experience in web development.
+    excerpt: Professional experience in full stack development.
     url: /work/
     btn_class: "btn--primary"
   - image_path: assets/images/books.jpg
@@ -28,7 +28,7 @@ feature_row:
     title: Academic Performance
     image_caption: |
       [Photo <i class="fas fa-external-link-alt"></i>](https://unsplash.com/photos/NIJuEQw0RKg)
-    excerpt: On track for a 1<sup>st</sup> class in BSc (Hons) Computer Science.
+    excerpt: Achieved a first class honours degree in Computer Science.
     url: /edu/
     btn_class: "btn--primary"
   - image_path: assets/images/lightbulb.jpg

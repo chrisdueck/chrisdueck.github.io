@@ -9,20 +9,22 @@ header:
     [Photo: **Unsplash** <i class="fas fa-external-link-alt"></i>](https://unsplash.com/photos/ObqRu3VNDSE)
 ---
 
-## BSc Computer Science
+## BSc (Hons) Computer Science
 
-_University of Surrey, Sept 2017 - Present_
+_University of Surrey, Sept 2017 - June 2021_
 
 ![image](/assets/images/uni.png){: style="float: right; width: 10em;"}
 
-- On track for a 1st class degree
-- Second year average: 87%
+- Achieved a First Class honours degree
 - Optional Modules Studied:
   - Computer Security
   - Distributed Systems
   - Deep Learning and Advanced AI
   - Natural Language Processing
-- Final Year Project: _Experimental Analysis of View Synchronisation Methods for Byzantine Consensus_
+- Dissertation/Final Year Project:
+  - On the topic of _Experimental Analysis of View Synchronisation Methods for
+    Byzantine Consensus_
+  - Achieved an 80% (first class) grade
 
 ## A-Levels
 

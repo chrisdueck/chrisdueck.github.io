@@ -66,7 +66,7 @@ plugins:
 author:
   name   : "Chris Dueck"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Prospective Computer Science Graduate and Software Engineer"
+  bio    : "Graduate Software Engineer"
   location: Surrey, UK
   links:
     - label: "Email"
