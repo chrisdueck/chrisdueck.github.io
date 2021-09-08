@@ -13,9 +13,23 @@ header:
 
 _Avco Systems, July 2021 - Present_
 
-_Xceptor, July 2019 - August 2020_
-
 ![image](/assets/images/computer.png){: style="float: right; width: 12em;"}
+
+Full stack development on bespoke software projects. I am currently working on
+Trackersack - an up and coming waste tracking and management solution.
+
+Key Experience:
+
+- React & React Native development for Android & iOS
+- Building .NET web APIs and interacting with others
+- Use of AWS for deploying and managing environments, logging, etc
+- Producing requirement specifications and designing mock-ups
+- Estimating and providing quotes for new projects
+- Regular communication with clients to support use of their systems
+
+<hr />
+
+_Xceptor, July 2019 - August 2020_
 
 One year placement role developing Xceptor, a highly configurable, web-based
 process automation product for global financial organisations.
