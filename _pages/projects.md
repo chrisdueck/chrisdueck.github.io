@@ -11,12 +11,43 @@ header:
     [Photo: **Unsplash** <i class="fas fa-external-link-alt"></i>](https://unsplash.com/photos/FO7JIlwjOtU)
 ---
 
-# In Progress
+# GitHub Contributions
+
+The graph below shows my GitHub contributions in the last year. These are mostly
+commits to small personal projects (some of which you can read about below!) and
+does not include any of my day to day work as a full time SWE.
+
+<script
+  src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js">
+</script>
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
+/>
+<style>
+  .calendar {
+    margin: auto;
+    margin-bottom: 20px;
+  }
+  .contrib-number {
+    color: white;
+  }
+}
+</style>
+<div class="calendar">
+  Loading...
+</div>
+<script>
+  GitHubCalendar(".calendar", "chrisdueck", { responsive: true });
+</script>
+
+Embedded using [GitHub Calendar](https://github.com/Bloggify/github-calendar)
+&copy; Bloggify.
+
+# Current Projects
 
 _I'm currently taking a break from new projects as I've just finished my
 bachelor's degree. Check back soon!_
-
-<br>
 
 # Past Projects
 
