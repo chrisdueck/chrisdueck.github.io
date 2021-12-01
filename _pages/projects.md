@@ -41,17 +41,18 @@ does not include any of my day to day work as a full time SWE.
   GitHubCalendar(".calendar", "chrisdueck", { responsive: true });
 </script>
 
-Embedded using [GitHub Calendar](https://github.com/Bloggify/github-calendar)
-&copy; Bloggify.
+<sub>
+  Embedded using [GitHub Calendar](https://github.com/Bloggify/github-calendar) &copy; Bloggify.
+</sub>
 
-# Current Projects
+<!-- # Current Projects
 
 _I'm currently taking a break from new projects as I've just finished my
-bachelor's degree. Check back soon!_
+bachelor's degree. Check back soon!_ -->
 
 # Past Projects
 
-## Algorithm Testing Platform for Byzantine Consensus
+## Test Platform for Byzantine Consensus
 
 _University Final Year Project, 2020/2021_
 
@@ -92,8 +93,8 @@ _Side Project, 2020_
 
 - Built with [Jekyll](https://jekyllrb.com/), using the [Minimal
   Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/) theme
-  with a few CSS adjustments.
-- All the content is written in markdown.
+  and my own CSS adjustments.
+- All the content is written in markdown and HTML.
 - Created as a portfolio of my experience in software development.
 
 ## Unity Ball Bouncing Game

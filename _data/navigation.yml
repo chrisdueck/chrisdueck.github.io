@@ -1,6 +1,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Skills"
+    url: /skills/
   - title: "Experience"
     url: /work/
   - title: "Education"

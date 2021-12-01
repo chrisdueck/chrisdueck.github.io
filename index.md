@@ -1,8 +1,8 @@
 ---
 layout: splash
-title: Hello!
+title: Hi
 header:
-  overlay_image: /assets/images/me.jpg
+  overlay_image: /assets/images/header.jpg
   #caption: |
   #  [Photo: **Unsplash** <i class="fas fa-external-link-alt"></i>](https://unsplash.com/photos/zAjdgNXsMeg)
   actions:
