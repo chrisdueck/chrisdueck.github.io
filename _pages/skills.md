@@ -37,7 +37,7 @@ I now primarily use MongoDB. Check out my [certifications](#awards--certificatio
 
     <img src="/assets/images/tech/angularjs.png" />
     <img src="/assets/images/tech/js-ts.png" />
-    <img src="/assets/images/tech/ssms.png" />
+    <img src="/assets/images/tech/sql.png" />
 
     <figcaption style="text-align: center;">
       In order: C#, React/React Native, MongoDB, AngularJS, TypeScript/JavaScript, SQL Server
