@@ -27,7 +27,8 @@ experience) and React or Angular with TypeScript for the latter.
 
 When it comes to databases, I have experience with both SQL and NoSQL solutions.
 During my placement year I worked frequently with Microsoft SQL Server, whereas
-I now primarily use MongoDB. Check out my [certifications](#courses--certifications).
+I now often work with MongoDB. Check out my
+[certifications](#courses--certifications).
 
 <div class="center">
   <figure class="third" style="display: inline-block; width: 60%;">

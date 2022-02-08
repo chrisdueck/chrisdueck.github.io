@@ -15,26 +15,40 @@ _Avco Systems, July 2021 - Present_
 
 ![image](/assets/images/computer.png){: style="float: right; width: 12em;"}
 
-Full stack development on bespoke software projects. I am currently working on
-Trackersack - an up and coming waste tracking and management solution.
+Full-stack development on a number of bespoke software projects of varying sizes
+and technologies, including systems in international use.
 
-Key Experience:
+__Technical Experience:__
 
-- React & React Native development for Android & iOS
-- Building .NET web APIs and interacting with others
-- Use of AWS for deploying and managing environments, logging, etc
-- Producing requirement specifications and designing mock-ups
+- **C# / .NET** backend development (websites, services etc.)
+- **React & React Native** frontend development for web and mobile
+- Integration with both SQL and NoSQL databases (**MS-SQL, MongoDB**)
+- Building and interacting with internal and external **APIs**
+- Deployment and management of staging/production environments, including use of:
+  - **AWS** (Elastic Beanstalk)
+  - **MongoDB** Atlas / Compass
+  - **SQL Server** Management Studio
+- Working with a range of additional technologies as required
+  - **GitLab CI**, shell scripts etc.
+  - **ASP.NET** Web Forms, **VB.NET**
+  - Vanilla JS, **jQuery**, ExtJS
+
+__Non-Technical Experience:__
+
+- Leading small projects and providing assistance to junior devs
+- Producing business specifications and designing mock-ups
 - Estimating and providing quotes for new projects
-- Regular communication with clients to support use of their systems
+- Regular communication with clients to support development and ongoing use of
+  their systems
+- Handling ad-hoc customer support tasks
 
-<hr />
-
+## Software Engineer (Placement)
 _Xceptor, July 2019 - August 2020_
 
 One year placement role developing Xceptor, a highly configurable, web-based
 process automation product for global financial organisations.
 
-Key experience:
+__Key experience:__
 
 - Development of new features and bug fixes, using C#, AngularJS and MS-SQL.
 - Communicating with clients to understand use cases and resolve issues.
@@ -44,7 +58,7 @@ Key experience:
 - CI/CD pipeline improvements.
 - Application performance testing with JMeter.
 
-Achievements:
+__Achievements:__
 
 - Came in 3rd Place at an internal hackathon alongside a team of other engineers.
 - Completed external UX Training course.
