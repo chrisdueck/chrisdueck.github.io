@@ -78,11 +78,11 @@ You can read about some of these projects on the [projects page](/projects).
 _This section is a work in-progress. Check back soon for more details._
 
 ## MongoDB
-- [M001: MongoDB Basics](https://university.mongodb.com/course_completion/d9e3238c-b8f3-49bc-b379-05aa53a585a8?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing)
-- [M103: Basic Cluster Administration](https://university.mongodb.com/course_completion/d0957142-c981-4a60-a283-8fa68ef78f9c?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing)
-- [M121: The MongoDB Aggregation
-  Framework](https://university.mongodb.com/course_completion/64225867-c8dd-4fb5-8d54-a407cd3db745?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing)
-- [M220N: MongoDB for .NET Developers](https://university.mongodb.com/course_completion/b1adbdf7-d1f1-42a5-8b62-7ae5e6a35db0?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing)
+- [M001: MongoDB Basics](https://university.mongodb.com/course_completion/d9e3238c-b8f3-49bc-b379-05aa53a585a8)
+- [M103: Basic Cluster Administration](https://university.mongodb.com/course_completion/d0957142-c981-4a60-a283-8fa68ef78f9c)
+- [M121: The MongoDB Aggregation Framework](https://university.mongodb.com/course_completion/64225867-c8dd-4fb5-8d54-a407cd3db745)
+- [M220N: MongoDB for .NET Developers](https://university.mongodb.com/course_completion/b1adbdf7-d1f1-42a5-8b62-7ae5e6a35db0)
+- [M201: MongoDB Performance](https://university.mongodb.com/course_completion/4991c2d6-021e-4282-b10e-52dc10c17ab7)
 
 <br />
 <div class="center">
