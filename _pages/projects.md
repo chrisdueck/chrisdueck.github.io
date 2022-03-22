@@ -50,7 +50,34 @@ does not include any of my day to day work as a full time SWE.
 _I'm currently taking a break from new projects as I've just finished my
 bachelor's degree. Check back soon!_ -->
 
+# Current Projects
+
+## Real-time card games
+
+- Work in progress project for building experience with websockets and animated
+  components.
+- Consists of a React client app that connects to a Node backend, both written
+  in TypeScript and making use of [socket.io](https://socket.io/).
+- Able to create and join rooms with other players via unique generated codes.
+- Playing cards can be dragged around the screen, and flipped over.
+- Much more to come...
+
+![image](/assets/images/cardgames.gif){: style="width: 26em; margin-left: 3em;"}
+
 # Past Projects
+
+## Poll sharing application
+
+- Web application built with React, Material UI and ChartJS.
+- Implemented user authentication and data storage using the Supabase API and
+  PostgreSQL database.
+- Able to create and respond to polls, view graphed results and update details
+  as necessary.
+
+![image](/assets/images/pollshare-polls.png){: style="float: left; margin-right:
+20px; height: 15em;"}
+![image](/assets/images/pollshare.png){: style="float: left; height: 15em;"}
+<br style="clear: both" />
 
 ## Test Platform for Byzantine Consensus
 

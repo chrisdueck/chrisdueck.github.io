@@ -11,10 +11,10 @@ header:
 
 ![Solving a Rubik's cube](/assets/images/cube.gif){: style="width: 32em; float: right; margin: 25px; margin-right: 0;"}
 
-I'm currently full time Software Engineer at Avco Systems in Slough, UK. I'm
-also recent Computer Science graduate of the University of Surrey, having
-achieved a first class honours overall with an 80% grade in my dissertation on
-Byzantine Consensus in distributed systems. 
+I'm currently a full time Software Engineer at Avco Systems in Slough, UK. I'm
+also a recent Computer Science graduate of the University of Surrey, having
+achieved a first class honours overal (91%) including an 80% grade in my
+dissertation on Byzantine Consensus in distributed systems. 
 
 In 2019 I was lucky enough to receive the Gold-i Prize for achieving the highest
 performance in my second year module 'Further Programming Paradigms', which

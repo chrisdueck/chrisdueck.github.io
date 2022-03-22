@@ -48,10 +48,10 @@ I now often work with MongoDB. Check out my
 
 # School/University Project Experience
 
-My programming journey began aged 12 when I taught myself to make (very!) basic
-websites using resources I found online. I decided to take an A Level in
-Computer Science where I eventually created a complete Air Cadet management
-system using VB.NET, and achieved an A* grade overall.
+I began programming aged 12, when I taught myself to make basic websites using
+resources I found online. I decided to take an A Level in Computer Science where
+I eventually created a complete Air Cadet management system using VB.NET, and
+achieved an A* grade overall.
 
 At University, I worked on several niche projects, from building a code snippet
 manager to creating a complete morse encoder-decoder in assembly on an Arduino.
