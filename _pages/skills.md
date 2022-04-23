@@ -83,6 +83,7 @@ _This section is a work in-progress. Check back soon for more details._
 - [M121: The MongoDB Aggregation Framework](https://university.mongodb.com/course_completion/64225867-c8dd-4fb5-8d54-a407cd3db745)
 - [M220N: MongoDB for .NET Developers](https://university.mongodb.com/course_completion/b1adbdf7-d1f1-42a5-8b62-7ae5e6a35db0)
 - [M201: MongoDB Performance](https://university.mongodb.com/course_completion/4991c2d6-021e-4282-b10e-52dc10c17ab7)
+- [M320: Data Modeling](https://university.mongodb.com/course_completion/2226db40-eb5c-4f4e-937d-fd08e8d439e2)
 
 <br />
 <div class="center">

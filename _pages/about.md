@@ -13,8 +13,8 @@ header:
 
 I'm currently a full time Software Engineer at Avco Systems in Slough, UK. I'm
 also a recent Computer Science graduate of the University of Surrey, having
-achieved a first class honours overal (91%) including an 80% grade in my
-dissertation on Byzantine Consensus in distributed systems. 
+achieved a first class honours overall (91%), including an 80% grade in my
+dissertation on Byzantine Consensus (distributed systems). 
 
 In 2019 I was lucky enough to receive the Gold-i Prize for achieving the highest
 performance in my second year module 'Further Programming Paradigms', which
