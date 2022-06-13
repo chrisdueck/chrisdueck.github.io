@@ -59,10 +59,13 @@ bachelor's degree. Check back soon!_ -->
 - Consists of a React client app that connects to a Node backend, both written
   in TypeScript and making use of [socket.io](https://socket.io/).
 - Able to create and join rooms with other players via unique generated codes.
-- Playing cards can be dragged around the screen, and flipped over.
+- Playing cards can be dragged around the screen and flipped over.
+- So far, Blackjack is playable, and more games will be added in time.
 - Much more to come...
 
-![image](/assets/images/cardgames.gif){: style="width: 26em; margin-left: 3em;"}
+![Card Games Demo](/assets/images/cardgames4.gif)
+
+<!--![image](/assets/images/cardgames.gif){: style="width: 30em; margin-left: 1em;"}-->
 
 # Past Projects
 
@@ -74,16 +77,16 @@ bachelor's degree. Check back soon!_ -->
 - Able to create and respond to polls, view graphed results and update details
   as necessary.
 
-![image](/assets/images/pollshare-polls.png){: style="float: left; margin-right:
+![Polls Site Listings](/assets/images/pollshare-polls.png){: style="float: left; margin-right:
 20px; height: 15em;"}
-![image](/assets/images/pollshare.png){: style="float: left; height: 15em;"}
+![Polls Site Results](/assets/images/pollshare.png){: style="float: left; height: 15em;"}
 <br style="clear: both" />
 
 ## Test Platform for Byzantine Consensus
 
 _University Final Year Project, 2020/2021_
 
-![image](/assets/images/consensus.png){: style="float: right; width: 8em;"}
+![Consensus](/assets/images/consensus.png){: style="float: right; width: 8em;"}
 
 - Created a web application for testing view synchronisation algorithms. Written
   in Elixir, using the Phoenix web framework.
@@ -99,7 +102,7 @@ _University Final Year Project, 2020/2021_
 
 _University Group Project, 2021_
 
-![image](/assets/images/nlp.png){: style="float: right; width: 7em;"}
+![Natural Language Processing](/assets/images/nlp.png){: style="float: right; width: 7em;"}
 
 - Created a Natural Language Processing model to identify a song's possible
   genres from reading its lyrics.
@@ -116,7 +119,7 @@ _University Group Project, 2021_
 
 _Side Project, 2020_
 
-![image](/assets/images/project.png){: style="float: right; width: 6em;"}
+![Lightbulb](/assets/images/project.png){: style="float: right; width: 6em;"}
 
 - Built with [Jekyll](https://jekyllrb.com/), using the [Minimal
   Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/) theme
@@ -137,7 +140,7 @@ score increases with each second played until out of lives.
 - Built for Android, controlled by touching either side of the screen.
 - Includes sound and particle effects for all collisions.
 
-![image](/assets/images/bouncinggame.gif)
+![Bouncing Ball Game](/assets/images/bouncinggame.gif)
 
 <sup>To view this project on GitHub, <a
 href="https://github.com/chrisdueck/bouncing-game">click here.</a></sup>
@@ -146,7 +149,7 @@ href="https://github.com/chrisdueck/bouncing-game">click here.</a></sup>
 
 _University Team Project, 2019_
 
-![image](/assets/images/gitfit-screenshot.jpg){: style="float: right; width:
+![GitFit App](/assets/images/gitfit-screenshot.jpg){: style="float: right; width:
 12em; margin-left: 5px;"}
 
 - Android application written in Java.
@@ -181,7 +184,7 @@ style="width: 32em;"}
 
 _University Project, 2018_
 
-![image](/assets/images/virtualcache.png){: style="float: right; width: 6em;"}
+![VirtualCache Logo](/assets/images/virtualcache.png){: style="float: right; width: 6em;"}
 
 - VirtualCache is a an Android app written in Java which facilitates virtual
   [geocaching!](https://en.wikipedia.org/wiki/Geocaching)
