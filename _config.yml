@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Chris Dueck
-email: chris_dueck@outlook.com
+email: cdueck-web@outlook.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  chrisdueck
@@ -61,30 +61,30 @@ plugins:
 author:
   name   : "Chris Dueck"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Graduate Software Engineer"
+  bio    : "Software Engineer"
   location: Surrey, UK
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:chris_dueck@outlook.com"
+      url: "mailto:cdueck-web@outlook.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chrisdueck"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/dueck-chris"
+      url: "https://linkedin.com/in/chrisadueck"
 
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:chris_dueck@outlook.com"
+      url: "mailto:cdueck-web@outlook.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chrisdueck"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/dueck-chris"
+      url: "https://linkedin.com/in/chrisadueck"
 
 defaults:
   # _pages

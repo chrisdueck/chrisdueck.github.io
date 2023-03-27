@@ -9,26 +9,48 @@ header:
     [Photo: **Unsplash** <i class="fas fa-external-link-alt"></i>](https://unsplash.com/photos/bUpwY7EdrlQ)
 ---
 
+<style>
+.outer-video-container {
+  width: 50%;
+  float: right;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.video-container {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+}
+.video-container > iframe {
+  width: 300%;
+  height: 100%;
+  margin-left: -100%;
+}
+</style>
+
 <div class="outer-video-container">
   <div class="video-container">
     <iframe height="800" src="https://www.youtube-nocookie.com/embed/ROeP5ck-hSE?autoplay=1&controls=0&modestbranding=0&start=15&end=28&rel=0&mute=1&loop=1" title="YouTube video player" frameborder="0"></iframe>
   </div>
 </div>
 
-I'm currently a full stack Software Engineer at Avco Systems in Slough, UK. I'm
-also a recent Computer Science graduate of the University of Surrey, having
-achieved a first class honours overall (91%), including an 80% grade in my
-dissertation on Byzantine Consensus (distributed systems). 
+Hi, I'm Software Engineer at Avco Systems in Slough, UK. My work spans the whole
+development lifecycle, from scoping out new projects to produce specifications
+and designs, all the way through to implementation, testing and deployment.
 
-In 2019 I was lucky enough to receive the Gold-i Prize for achieving the highest
-performance in my second year module 'Further Programming Paradigms', which
-covered advanced OOP in C++, Functional Programming in Haskell and Logic
-Programming in Prolog.
+I graduated from the University of Surrey in 2021, having attained a first class
+**BSc (Hons) in Computer Science** (91%), including a strong 80% grade in my
+dissertation on Byzantine Consensus (an area of distributed systems research).
+
+In 2019, I received the **Gold-i Prize** as the highest-performing student in my
+second year module *Further Programming Paradigms*, which covered advanced OOP
+in C++, Functional Programming in Haskell and Logic Programming in Prolog.
 
 I also completed a placement year as a full-time Software Engineer at Xceptor,
-where I worked in an agile scrum team, primarily using _C#, AngularJS and SQL
-Server_ to develop new features for a large web-based automation platform used
-internationally by large financial clients.
+where I worked in an agile scrum team, primarily using _C#_, _AngularJS_ and
+_SQL Server_ to develop new features for a large web-based automation platform
+used internationally by large financial clients.
 
 Whenever I have enough free time, I like working on my own coding projects, some
 of which you can read about [here.](/projects/) I hope to update this more soon.

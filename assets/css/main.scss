@@ -21,36 +21,3 @@ $background-color: rgb(36, 36, 36);
     font-size: larger;
     font-family: 'Norican', cursive;
 }
-
-.outer-video-container {
-    width: 50%;
-    float: right;
-    margin-left: 10px;
-    .video-container {
-        position: relative;
-        width: 100%;
-        aspect-ratio: 16 / 9;
-        overflow: hidden;
-        iframe {
-            width: 300%;
-            height: 100%;
-            margin-left: -100%;
-        }
-    }
-}
-
-.badge-container {
-    height: 220px;
-    width: 350px;
-    float: right;
-    margin-left: 10px;
-    #badgebg {
-        background-color: whitesmoke;
-        position: absolute;
-        width: 350px;
-        height: 220px;
-        border-radius: 10;
-        margin-top: 1px;
-        z-index: -1;
-    }
-}

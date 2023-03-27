@@ -17,6 +17,21 @@ header:
 .center {
   text-align: center;
 }
+.badge-container {
+  width: 350px;
+  height: 220px;
+  float: right;
+  margin-left: 10px;
+}
+#badge-bg {
+  background-color: whitesmoke;
+  position: absolute;
+  width: 350px;
+  height: 220px;
+  border-radius: 10;
+  margin-top: 1px;
+  z-index: -1;
+}
 </style>
 
 # Professional Experience
@@ -78,12 +93,12 @@ You can read about some of these projects on the [projects page](/projects).
 ## MongoDB
 
 <div class="badge-container">
-  <div id="badgebg"></div>
+  <div id="badge-bg"></div>
   <div data-iframe-width="350" data-iframe-height="400" data-share-badge-id="6272c9a5-444f-4769-8e05-d187f6f8d746" data-share-badge-host="https://www.credly.com"></div>
   <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
 
-I completed the MongoDB Associate Developer certification in March 2023. Below is a list of related courses I have also obtained proof of completion for.
+I completed the MongoDB Associate Developer certification in March 2023. Below is a list of related courses I have also completed.
 
 - [M001: MongoDB Basics](https://university.mongodb.com/course_completion/d9e3238c-b8f3-49bc-b379-05aa53a585a8)
 - [M103: Basic Cluster Administration](https://university.mongodb.com/course_completion/d0957142-c981-4a60-a283-8fa68ef78f9c)

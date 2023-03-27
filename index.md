@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Hi
+title: Hi there
 header:
   overlay_image: /assets/images/header.jpg
   #caption: |
