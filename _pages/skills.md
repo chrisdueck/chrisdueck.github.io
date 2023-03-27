@@ -21,14 +21,14 @@ header:
 
 # Professional Experience
 
-As a full stack developer, my work is typically split equally across frontend
-and backend code. I have primarily worked with C# / .NET for the former (2 years
-experience) and React or Angular with TypeScript for the latter.
+As a full stack developer, my work is split fairly equally across frontend
+and backend. In recent years I've primarily worked with C#/.NET, Go, React and
+React Native.
 
-When it comes to databases, I have experience with both SQL and NoSQL solutions.
-During my placement year I worked frequently with Microsoft SQL Server, whereas
-I now often work with MongoDB. Check out my
-[certifications](#courses--certifications).
+I also have experience with both SQL and NoSQL databases, particularly MS-SQL
+and MongoDB. I've even completed an associate developer certification with
+Mongo, as well as a number of smaller courses. See the full list
+[here](#courses--certifications).
 
 <div class="center">
   <figure class="third" style="display: inline-block; width: 60%;">
@@ -75,9 +75,16 @@ You can read about some of these projects on the [projects page](/projects).
 
 # Courses & Certifications
 
-_This section is a work in-progress. Check back soon for more details._
-
 ## MongoDB
+
+<div class="badge-container">
+  <div id="badgebg"></div>
+  <div data-iframe-width="350" data-iframe-height="400" data-share-badge-id="6272c9a5-444f-4769-8e05-d187f6f8d746" data-share-badge-host="https://www.credly.com"></div>
+  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</div>
+
+I completed the MongoDB Associate Developer certification in March 2023. Below is a list of related courses I have also obtained proof of completion for.
+
 - [M001: MongoDB Basics](https://university.mongodb.com/course_completion/d9e3238c-b8f3-49bc-b379-05aa53a585a8)
 - [M103: Basic Cluster Administration](https://university.mongodb.com/course_completion/d0957142-c981-4a60-a283-8fa68ef78f9c)
 - [M121: The MongoDB Aggregation Framework](https://university.mongodb.com/course_completion/64225867-c8dd-4fb5-8d54-a407cd3db745)

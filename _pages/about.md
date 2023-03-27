@@ -9,9 +9,13 @@ header:
     [Photo: **Unsplash** <i class="fas fa-external-link-alt"></i>](https://unsplash.com/photos/bUpwY7EdrlQ)
 ---
 
-![Solving a Rubik's cube](/assets/images/cube.gif){: style="width: 32em; float: right; margin: 25px; margin-right: 0;"}
+<div class="outer-video-container">
+  <div class="video-container">
+    <iframe height="800" src="https://www.youtube-nocookie.com/embed/ROeP5ck-hSE?autoplay=1&controls=0&modestbranding=0&start=15&end=28&rel=0&mute=1&loop=1" title="YouTube video player" frameborder="0"></iframe>
+  </div>
+</div>
 
-I'm currently a full time Software Engineer at Avco Systems in Slough, UK. I'm
+I'm currently a full stack Software Engineer at Avco Systems in Slough, UK. I'm
 also a recent Computer Science graduate of the University of Surrey, having
 achieved a first class honours overall (91%), including an 80% grade in my
 dissertation on Byzantine Consensus (distributed systems). 
