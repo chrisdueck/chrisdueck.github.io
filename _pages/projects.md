@@ -11,8 +11,23 @@ header:
     [Photo: **Unsplash** <i class="fas fa-external-link-alt"></i>](https://unsplash.com/photos/FO7JIlwjOtU)
 ---
 
-# GitHub Contributions
+# GitHub
 
+You can check out my GitHub profile <a
+href="https://github.com/chrisdueck">here</a>. I like to contribute to open
+source where I can, but I'm still relatively new to it, and my day-to-day work
+is all in closed-source GitLab, so you might not see a lot here for now!
+
+## OSS Contributions
+
+### react-native-bluetooth-classic
+- <a href="https://github.com/kenjdavidson/react-native-bluetooth-classic/pull/253">Fix unpairDevice calling cancelDiscovery</a>
+- <a href="https://github.com/kenjdavidson/react-native-bluetooth-classic/pull/255">Reverse unpairDevice version comparison</a>
+
+<br />
+
+<!-- Temporarily removed due to https://github.com/Bloggify/github-calendar/issues/172 -->
+<!--
 The graph below shows my GitHub contributions in the last year. These are mostly
 commits to small personal projects (some of which you can read about below!) and
 does not include any of my day to day work as a full time SWE.
@@ -43,7 +58,7 @@ does not include any of my day to day work as a full time SWE.
 
 <sub>
   Embedded using [GitHub Calendar](https://github.com/Bloggify/github-calendar) &copy; Bloggify.
-</sub>
+</sub> -->
 
 <!-- # Current Projects
 
@@ -66,6 +81,8 @@ bachelor's degree. Check back soon!_ -->
 ![Card Games Demo](/assets/images/cardgames4.gif)
 
 <!--![image](/assets/images/cardgames.gif){: style="width: 30em; margin-left: 1em;"}-->
+
+<br />
 
 # Past Projects
 

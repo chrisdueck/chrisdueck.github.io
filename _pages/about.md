@@ -40,10 +40,10 @@ the whole development lifecycle, from scoping out new projects, producing
 requirement specifications and designs, all the way through to implementation,
 testing and deployment.
 
-I graduated from the **University of Surrey** in 2021, having attained a first class
-**BSc (Hons) Computer Science** (91%), including a strong 80% grade in my
-dissertation: _Experimental Analysis of View Synchronisation in Byzantine Consensus (a hot area of
-distributed systems research).
+I graduated from the **University of Surrey** in 2021, having attained a first
+class **BSc (Hons) Computer Science** (91%), including a strong 80% grade in my
+dissertation: _Experimental Analysis of View Synchronisation Methods for
+Byzantine Consensus_ (a hot topic in distributed systems research).
 
 In 2019, I was awarded the **Gold-i Prize** as the top-performing student in my
 second year module *Further Programming Paradigms*, which covered advanced OOP
