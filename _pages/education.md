@@ -47,6 +47,12 @@ _Theale Green School, Sept 2010 - July 2015_
 - Triple Science - A\*AA
 - English Language - B
 
+## Other
+
+- ILM Level 3 - Leadership and Team Management
+- BTEC Level 2 - Teamwork and Personal Development
+- BTEC Level 2 - Aviation Studies
+
 <br />
 <sub>
     *Grade is given with COVID-19 safety net policy applied.

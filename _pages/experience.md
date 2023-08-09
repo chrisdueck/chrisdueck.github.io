@@ -9,14 +9,15 @@ header:
     [Photo: **Unsplash** <i class="fas fa-external-link-alt"></i>](https://unsplash.com/photos/Oja2ty_9ZLM)
 ---
 
-## Software Engineer
+## Senior Software Engineer
 
 _Avco Systems, July 2021 - Present_
 
 ![image](/assets/images/computer.png){: style="float: right; width: 12em;"}
 
 Full-stack development on a number of bespoke software projects of varying sizes
-and technologies, including systems in international use.
+and technologies, including systems in international use. Promoted to Senior
+Engineer in August 2023.
 
 __Technical Experience:__
 
@@ -25,8 +26,8 @@ __Technical Experience:__
 - Integration with both SQL and NoSQL databases (**MS-SQL, MongoDB**)
 - Building and interacting with internal and external **APIs**
 - Deployment and management of staging/production environments, including use of:
-  - **AWS** (Elastic Beanstalk)
-  - **MongoDB** Atlas / Compass
+  - **AWS** (EB, CloudFormation, S3, Lambda etc.)
+  - **MongoDB** Atlas / Studio3T / C# Driver
   - **SQL Server** Management Studio
 - Working with a range of additional technologies as required
   - **GitLab CI**, shell scripts etc.
@@ -35,12 +36,12 @@ __Technical Experience:__
 
 __Non-Technical Experience:__
 
-- Leading small projects and providing assistance to junior devs
+- Managing projects and providing assistance to junior devs
 - Producing business specifications and designing mock-ups
 - Estimating and providing quotes for new projects
 - Regular communication with clients to support development and ongoing use of
   their systems
-- Handling ad-hoc customer support tasks
+- Handling or delegating ad-hoc customer support tasks
 
 ## Software Engineer (Placement)
 _Xceptor, July 2019 - August 2020_

@@ -35,22 +35,25 @@ header:
   </div>
 </div>
 
-Hi, I'm Software Engineer at Avco Systems in Slough, UK. My work spans the whole
-development lifecycle, from scoping out new projects to produce specifications
-and designs, all the way through to implementation, testing and deployment.
+Hi, I'm a Senior Software Engineer at Avco Systems in Slough, UK. My work spans
+the whole development lifecycle, from scoping out new projects, producing
+requirement specifications and designs, all the way through to implementation,
+testing and deployment.
 
-I graduated from the University of Surrey in 2021, having attained a first class
-**BSc (Hons) in Computer Science** (91%), including a strong 80% grade in my
-dissertation on Byzantine Consensus (an area of distributed systems research).
+I graduated from the **University of Surrey** in 2021, having attained a first class
+**BSc (Hons) Computer Science** (91%), including a strong 80% grade in my
+dissertation: _Experimental Analysis of View Synchronisation in Byzantine Consensus (a hot area of
+distributed systems research).
 
-In 2019, I received the **Gold-i Prize** as the highest-performing student in my
+In 2019, I was awarded the **Gold-i Prize** as the top-performing student in my
 second year module *Further Programming Paradigms*, which covered advanced OOP
-in C++, Functional Programming in Haskell and Logic Programming in Prolog.
+in _C++_, Functional Programming in _Haskell_ and Logic Programming in _Prolog_.
 
-I also completed a placement year as a full-time Software Engineer at Xceptor,
-where I worked in an agile scrum team, primarily using _C#_, _AngularJS_ and
-_SQL Server_ to develop new features for a large web-based automation platform
-used internationally by large financial clients.
+Before graduating, I also completed a placement year with _Xceptor_, a web-based
+process automation platform that powers many of the big names in finance around
+the world. As a Software Engineer, I worked in an Scrum team primarily using
+_C#_, _AngularJS_ and _SQL Server_ to develop new features and bug fixes, as
+well as helping with deployments, support and performance testing.
 
 Whenever I have enough free time, I like working on my own coding projects, some
 of which you can read about [here.](/projects/) I hope to update this more soon.
@@ -59,21 +62,23 @@ of which you can read about [here.](/projects/) I hope to update this more soon.
 Westminster Award" captiorn="At the House of Lords, 2016" %}{:
 style="width: 10em; float: left; margin-right: 20px; margin-top: 0;"}
 
-Before I got to university, I spent a lot of my time with the Royal Air Force
-Air Cadets, where I was a Cadet Warrant Officer and staff cadet at 2402 
+<hr />
+
+Before I went to university, I spent a lot of my time with the _Royal Air Force
+Air Cadets_, where I was a **Cadet Warrant Officer** and staff cadet at 2402
 (Burghfield) squadron. As well as flight experience, I gained a range of skills
 such as effective teamwork, communication, time management and leadership.
 
-In 2016, I was a regional finalist for the CVQO Duke of Westminster award. As
-part of this competition I completed an ILM Level 3 certificate in Leadership
-and Team Management, and was elected to become the CVQO Regional Ambassador for
-the southern UK - a role where I promoted the benefits of vocational
-qualifications to cadets throughout the south for the next year.
+In 2016, I was a regional finalist for the _CVQO Duke of Westminster_ award. As
+part of this competition I completed an **ILM Level 3 Certificate** in
+Leadership and Team Management, and was elected to become the **CVQO Regional
+Ambassador** for the southern UK - a role where I promoted the benefits of
+vocational qualifications to cadets throughout the south for the next year.
 
 Around that time, I also undertook several long distance hikes in support of
 charity, namely the [RAFA](https://www.rafa.org.uk/), the
 [JTYAF](https://www.jtyaf.org/) and [CALM](https://www.thecalmzone.net/). The
 hikes took place in the Brecon Beacons, on the Ridgeway and through Dartmoor.
-Nowadays my hobbies include gaming and working out at ~~the gym~~ **home**. I
+Nowadays my hobbies include gaming and working out at home. I
 also play the guitar/keyboard on occasion, and can solve Rubik's cubes
 _reasonably_ quickly (see above)!
