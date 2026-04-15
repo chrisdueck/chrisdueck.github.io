@@ -1,13 +1,10 @@
 ---
-import { Image } from "astro:assets";
 import Section from "../Section.astro";
-
-import CV from "@cv";
-const images = CV.images!;
+// TODO Probably not going to use this but will leave it here for now. Commented out to avoid build errors
 ---
 
 <Section className={Astro.props.className} title="Images Gallery">
-  {images?.intro && <p class="font-mono ml-3 text-skin-muted">{images.intro}</p>}
+  <!-- {images?.intro && <p class="font-mono ml-3 text-skin-muted">{images.intro}</p>}
   <div
     class="grid grid-cols-1 gap-2 p-2 pt-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4"
   >
@@ -32,7 +29,7 @@ const images = CV.images!;
       ))
     }
   </div>
-</Section>
+</Section> -->
 
 <script>
   import { Fancybox } from "@fancyapps/ui";
