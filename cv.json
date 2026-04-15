@@ -381,7 +381,8 @@
         "position": "container",
         "url": "/afl.png"
       },
-      "date": "2024"
+      "date": "2024",
+      "url": null
     },
     {
       "name": "Rubik's Cube Simulation",
