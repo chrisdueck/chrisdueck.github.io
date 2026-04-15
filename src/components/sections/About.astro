@@ -1,0 +1,26 @@
+---
+import Section from "../Section.astro";
+
+import CV from "@cv";
+import SkillsLoop from "../react/SkillsLoop";
+const { summary } = CV.basics;
+---
+
+<Section title="About Me">
+  <p class="opacity-75 print:font-sans">
+    {summary}
+  </p>
+  <div style={{ position: 'relative', overflow: 'hidden'}}>
+    <SkillsLoop client:only="react" />
+  </div>
+  <!-- <SkillsCarousel /> -->
+  <!-- <CodeWall
+    client:load
+    glitchColors={["#5e4491", "#A476FF", "#241a38"]}
+    glitchSpeed={33}
+    centerVignette={false}
+    outerVignette={false}
+    smooth={true}
+  /> -->
+</Section>
+

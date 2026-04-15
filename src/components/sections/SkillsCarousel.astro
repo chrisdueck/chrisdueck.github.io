@@ -1,0 +1,66 @@
+---
+const technologies = [
+  { image: "react.svg", name: "React" },
+  { image: "typeScript.svg", name: "TypeScript" },
+  { image: "tailwindcss.svg", name: "TailwindCSS" },
+  { image: "next.svg", name: "Next.js" },
+  { image: "mongodb.svg" },
+  { image: "javaScript.svg", name: "JavaScript" },
+  { image: "git.svg", name: "Git" },
+  { image: "supabase.svg", name: "Supabase" },
+  { image: "expo.svg", name: "Expo" }
+];
+---
+
+<div class="relative overflow-x-hidden py-8">
+  <div
+    class="pointer-events-none absolute inset-y-0 left-0 w-32 bg-gradient-to-r from-[var(--background)] to-transparent z-20"
+  >
+  </div>
+  <div
+    class="pointer-events-none absolute inset-y-0 right-0 w-32 bg-gradient-to-l from-[var(--background)] to-transparent z-20"
+  >
+  </div>
+
+  <div class="flex animate-scroll hover:animate-paused gap-12 md:gap-20 w-max">
+    {
+      [...technologies, ...technologies, ...technologies].map(({ image, name }) => (
+        <div class="flex items-center gap-2 group transition-all duration-300">
+          <img
+            src={`/svg/${image}`}
+            alt={name}
+            class="h-6 w-auto object-contain transition-transform group-hover:scale-110"
+            width="30"
+            height="30"
+            loading="lazy"
+          />
+          {name && (
+            <span class="text-lg font-medium text-[var(--white-icon)]">
+              {name}
+            </span>
+          )}
+        </div>
+      ))
+    }
+  </div>
+</div>
+
+<style is:global>
+  @keyframes scroll {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-50%);
+    }
+  }
+  .animate-scroll {
+    animation: scroll 60s linear infinite;
+  }
+
+  @media (min-width: 768px) {
+    .animate-scroll {
+      animation-duration: 60s;
+    }
+  }
+</style>

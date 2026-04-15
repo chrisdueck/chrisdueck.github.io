@@ -1,0 +1,437 @@
+{
+  "analyticsCode": "",
+  "pageLayout": "two-column",
+  "basics": {
+    "name": "Chris Dueck",
+    "label": "Senior Software Engineer",
+    "image": "/avatar.jpg",
+    "email": "chris_dueck@outlook.com",
+    "url": "https://www.chrisdueck.net",
+    "summary": "Hi, I'm Chris - a quality-focused, full-stack engineer with extensive experience in leading and delivering successful software solutions from the ground up. I love to get out of my comfort zone and try something new. If you'd like to work with me, get in touch!",
+    "theme": "green",
+    "location": {
+      "address": "Reading",
+      "city": "England",
+      "countryCode": "UK",
+      "region": "UK"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "icon": "mdi:linkedin",
+        "username": "chrisadueck",
+        "url": "https://www.linkedin.com/in/chrisadueck/"
+      },
+      {
+        "network": "GitHub",
+        "icon": "mdi:github",
+        "username": "chrisdueck",
+        "url": "https://github.com/chrisdueck"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "University of Surrey",
+      "url": "https://www.surrey.ac.uk/",
+      "area": "BSc (Hons) Computer Science | 1st Class",
+      "startDate": "2017",
+      "endDate": "2021",
+      "text": [
+        "Dissertation: Experimental Analysis of View Synchronisation for Byzantine Consensus",
+        "Student Ambassador for the Widening Participation & Outreach team",
+        "Course Representative for Computer Science years 2 & 3"
+      ]
+    },
+    {
+      "institution": "Theale Green Sixth Form",
+      "url": "",
+      "area": "A Levels | A*AB | Computer Science, Mathematics and Physics",
+      "startDate": "2015",
+      "endDate": "2017"
+    },
+    {
+      "institution": "Theale Green School",
+      "url": "",
+      "area": "GCSEs | 11 A*-B | Triple Science A*AA | Mathematics A",
+      "startDate": "2010",
+      "endDate": "2015"
+    },
+    {
+      "institution": "Air Training Corps & CVQO",
+      "url": "",
+      "area": "Extra-curricular qualifications",
+      "startDate": "2012",
+      "endDate": "2017",
+      "text": [
+        "ILM Level 3 Leadership and Team Management",
+        "BTEC Level 2 Teamwork and Personal Development",
+        "BTEC Level 2 Aviation Studies"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "MongoDB Associate Developer",
+      "date": "2023-03-22",
+      "url": "https://www.credly.com/badges/6272c9a5-444f-4769-8e05-d187f6f8d746",
+      "issuer": "Awarded by MongoDB",
+      "info": "A certification of proficiency in MongoDB development."
+    },
+    {
+      "name": "The Gold-i Prize",
+      "date": "2019-10-01",
+      "url": "",
+      "issuer": "Awarded by University of Surrey & Gold-i",
+      "info": "An academic prize awarded to the best performing undergraduate in the Further Programming Paradigms module, including assignments in C++, Haskell and Prolog."
+    },
+    {
+      "name": "CVQO Ambassador for the South",
+      "date": "2016-10-01",
+      "url": "https://cvcollege.org/",
+      "issuer": "Awarded by Cadet Vocational College (formerly CVQO)",
+      "info": "As a regional finalist for the 2016 Duke of Westminster Award, I was the winner of a public vote selecting one of two UK ambassadors for Cadet Vocational College in 2017."
+    }
+  ],
+  "work": [
+    {
+      "name": "Avco Systems",
+      "position": "Senior Software Engineer",
+      "location_type": "Hybrid",
+      "location": "Slough, UK",
+      "url": "https://avcosystems.com",
+      "startDate": "2021-06-01",
+      "endDate": null,
+      "summary": [
+        "Experience leading and working within strong, agile development teams to deliver high-quality end-to-end software solutions, from specification to production.",
+        "Close collaboration with a diverse client base, from small businesses to FTSE100 companies and public authorities, and experience presenting to different audiences.",
+        "Active contributor to company initiatives such as developer training, technical presentations, and placement student mentorship."
+      ],
+      "projects": [
+        "Vehicle provenance check platform | Go APIs, React, MongoDB, AWS",
+        "Barcode waste tracking system | .NET Web API, React Native, Expo, MongoDB, AWS",
+        "Customer entitlement system for UK call centres | Next.js, .NET, Azure",
+        "Client management platform for financial advisers | Next.js, .NET, Azure"
+      ],
+      "skills": {
+        "C#": "simple-icons:dotnet",
+        "Next.js": "ri:nextjs-fill",
+        "AWS": "mdi:aws",
+        "Azure": "mdi:azure",
+        "MongoDB": "simple-icons:mongodb",
+        "PostgreSQL": "simple-icons:postgresql",
+        "MS-SQL": "mdi:database",
+        "Docker": "mdi:docker",
+        "Go": "simple-icons:go",
+        "React": "mdi:react",
+        "Git": "mdi:git",
+        "TypeScript": "simple-icons:typescript",
+        "Expo": "simple-icons:expo",
+        "Android": "simple-icons:android",
+        "Playwright": "simple-icons:playwright",
+        "TailwindCSS": "simple-icons:tailwindcss"
+      }
+    },
+    {
+      "name": "Xceptor",
+      "position": "Software Engineer",
+      "location_type": "",
+      "location": "Guildford, UK",
+      "url": "https://xceptor.com",
+      "startDate": "2019-07-01",
+      "endDate": "2020-08-01",
+      "summary": [
+        "Full-stack placement engineer role taken between 2nd/3rd year of university.",
+        "Experience working on a large-scale process automation system trusted by global financial institutions.",
+        "Contributed to development of new features and bug fixes within Architecture and Process Orchestration teams."
+      ],
+      "achievements": [
+        "Completion of UX and Application Security training.",
+        "3rd place at 2-day internal hackathon."
+      ],
+      "skills": {
+        "C#": "simple-icons:dotnet",
+        "AngularJS": "simple-icons:angularjs",
+        "Git": "mdi:git",
+        "JMeter": "simple-icons:apachejmeter",
+        "Node": "ri:nodejs-line",
+        "JavaScript": "simple-icons:javascript",
+        "HTML": "simple-icons:html5",
+        "CSS": "ri:css3-fill"
+      }
+    },
+    {
+      "name": "University of Surrey",
+      "position": "Student Ambassador",
+      "location_type": "",
+      "location": "Guildford, UK",
+      "url": "https://www.surrey.ac.uk/",
+      "startDate": "2017-10-01",
+      "endDate": "2019-06-01",
+      "summary": "I worked in a number of roles during my time at university - the foremost of these being Student Ambassador duties, but also as a Computer Science Lab Helper for first year students.",
+      "achievements": [
+        "Running stands and providing guided tours at university applicant days.",
+        "Writing and appearing in university blog posts and articles.",
+        "Supporting the phone lines for clearing on A-level results day."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "icon": "simple-icons:html5",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "icon": "ri:css3-fill",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "icon": "simple-icons:javascript",
+      "level": "Expert",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "icon": "mdi:tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "icon": "simple-icons:typescript",
+      "level": "Expert",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "icon": "ri:nodejs-line",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "SQL",
+      "icon": "simple-icons:mysql",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "icon": "simple-icons:mongodb",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "File",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "icon": "mdi:git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "icon": "mdi:github",
+      "level": "Expert",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "icon": "ri:nextjs-line",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "icon": "mdi:react",
+      "level": "Expert",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Docker",
+      "icon": "mdi:docker",
+      "level": "Intermediate",
+      "keywords": [
+        "Virtual Environments",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Go",
+      "icon": "simple-icons:go",
+      "level": "Beginner",
+      "keywords": [
+        "Backend",
+        "Cloud Service"
+      ]
+    },
+    {
+      "name": "Astro",
+      "icon": "simple-icons:astro",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "Shell",
+      "icon": "simple-icons:shell",
+      "level": "Intermediate",
+      "keywords": [
+        "Scripting",
+        "Automation"
+      ]
+    },
+    {
+      "name": "Linux",
+      "icon": "simple-icons:linux",
+      "level": "Intermediate",
+      "keywords": [
+        "OS",
+        "Scripting",
+        "Automation"
+      ]
+    },
+    {
+      "name": "Vercel",
+      "icon": "simple-icons:vercel",
+      "level": "Intermediate",
+      "keywords": [
+        "Serverless",
+        "Static Site Hosting"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Avco Foosball League",
+      "description": "Records our semi-regular lunchtime foosball games at the Avco office, providing leaderboards, stats and graphs to see who's the king of the table!",
+      "highlights": [
+        "Full elo rating system",
+        "A variety of filterable tables showing latest or historic stats for individuals and teams",
+        "Built-in issue tracker and feature requests",
+        "Responsive UI for desktop and mobile with theme switcher",
+        "Created with Next.js and Supabase"
+      ],
+      "isActive": false,
+      "github": "",
+      "image": {
+        "position": "container",
+        "url": "/afl.png"
+      },
+      "date": "2024"
+    },
+    {
+      "name": "Rubik's Cube Simulation",
+      "description": "A working, 3D Rubik's Cube that runs in-browser using Three.js and React - inspired by my days as a somewhat-competitive speedsolver!",
+      "highlights": [
+        "Keyboard input allow complete control of the cube, and will seamlessly adjust to the new orientation when the cube is rotated",
+        "Smooth transitions and a configurable animation speed slider, as well as orbit and zoom controls",
+        "Entire algorithms available at the push of a button from the control pane in the top right of the screen"
+      ],
+      "isActive": false,
+      "github": "",
+      "image": {
+        "position": "container",
+        "url": "/cube.gif"
+      },
+      "date": "2024"
+    },
+    {
+      "name": "Real-Time Online Card Games",
+      "description": "A web app where you can create and join rooms with other users to play a range of card games in real time",
+      "highlights": [
+        "Simple React client app that connects to a node backend using websockets (socket.io)",
+        "Cards can be dragged across the screen and dropped into piles to play",
+        "New game modes can be easily implemented with a simple server handler to specify the gameplay rules"
+      ],
+      "isActive": false,
+      "github": "",
+      "image": {
+        "position": "container",
+        "url": "/card-games-win.png"
+      },
+      "date": "2022"
+    },
+    {
+      "name": "Bouncing Ball Game",
+      "description": "A simple mobile game where you bounce a ball on a platform for as long as possible while avoiding falling obstacles!",
+      "highlights": [
+        "Made with Unity and built for Android with touch controls to move the platform side to side",
+        "A range of randomised falling obstacles and extra life potions",
+        "Complete with particle effects, animations and UI overlays to track your score!",
+        "Made using free Unity assets and textures"
+      ],
+      "isActive": false,
+      "github": "",
+      "image": {
+        "position": "container",
+        "url": "/bouncing-ball-game.gif"
+      },
+      "date": "2020"
+    }
+  ],
+  "images": null
+}
