@@ -8,6 +8,7 @@ import react from '@astrojs/react';
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://chrisdueck.github.io',
   integrations: [tailwind(), astroIcon({
     include: {
       mdi: ["*"],
