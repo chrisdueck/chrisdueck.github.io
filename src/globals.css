@@ -150,3 +150,9 @@
     }
   }
 }
+
+@media (min-width: 770px) {
+  .sidePanel {
+    position: sticky;
+  }
+}

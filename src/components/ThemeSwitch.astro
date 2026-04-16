@@ -1,5 +1,6 @@
 ---
 import { Icon } from 'astro-icon/components'
+import ThemeSwitcher from './react/ThemeSwitcher'
 ---
 
 <div class='inline-flex items-center print:hidden'>
@@ -10,7 +11,7 @@ import { Icon } from 'astro-icon/components'
       class='cursor-pointer'
       aria-label='Toggle dark mode'>
       <i
-        class='flex items-center gap-1 text-sm font-medium leading-6 text-skin-base transition-transform ease-in-out group-hover/theme:rotate-45'>
+        class='flex items-center gap-1 text-sm font-medium leading-6 text-skin-base transition-transform ease-in-out hover/theme:rotate-45'>
         <Icon
           name='ri:moon-fill'
           class='hidden dark:block'
@@ -20,6 +21,16 @@ import { Icon } from 'astro-icon/components'
         <Icon name='ri:sun-fill' class='dark:hidden' width={20} height={20} />
       </i>
     </button>
+    <select
+      id='themeSelect'
+      class='block w-full rounded-md border-0 bg-transparent py-1.5 pl-3 pr-10 text-skin-base ring-1 ring-inset ring-skin-muted focus:ring-2 focus:ring-skin-hue sm:text-sm sm:leading-6'>
+      <option value='red'>Red</option>
+      <option value='pink'>Pink</option>
+      <option value='orange'>Orange</option>
+      <option value='cyber'>Cyberpunk</option>
+      <option value='green'>Green</option>
+      <option value='blue'>Blue</option>
+    </select>
   </div>
 </div>
 
@@ -32,15 +43,19 @@ import { Icon } from 'astro-icon/components'
 <script>
   let isDark = document.documentElement.classList.contains('dark')
 
+  function toggleDarkSimple(event: MouseEvent) {
+    isDark = !isDark
+    updateTheme()
+    return
+  }
+
   function toggleDark(event: MouseEvent) {
     const isAppearanceTransition =
       'startViewTransition' in document &&
       !window.matchMedia('(prefers-reduced-motion: reduce)').matches
 
     if (!isAppearanceTransition) {
-      isDark = !isDark
-      updateTheme()
-      return
+      toggleDarkSimple(event);
     }
 
     const x = event.clientX
@@ -88,7 +103,7 @@ import { Icon } from 'astro-icon/components'
 
   const themeSwitchButton = document.getElementById('themeSwitch')
   if (themeSwitchButton) {
-    themeSwitchButton.addEventListener('click', toggleDark)
+    themeSwitchButton.addEventListener('click', toggleDarkSimple) // The animated version has some issues. Disabling it for now.
   }
 
   const themeSelect = document.getElementById(

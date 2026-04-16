@@ -12,7 +12,7 @@ import {
 } from "react-icons/si";
 import { FaAws } from "react-icons/fa";
 import { VscAzure } from "react-icons/vsc";
-import LogoLoop from "./LogoLoop";
+import LogoLoop from "./lib/LogoLoop";
 
 const SkillsLoop = () => {
   const techLogos = [
@@ -71,7 +71,6 @@ const SkillsLoop = () => {
   ];
 
   // TODO Make fade out colour work
-
   return (
     <LogoLoop
       logos={techLogos}
