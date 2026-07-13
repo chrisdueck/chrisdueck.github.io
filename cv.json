@@ -34,11 +34,11 @@
     {
       "institution": "University of Surrey",
       "url": "https://www.surrey.ac.uk/",
-      "area": "BSc (Hons) Computer Science | 1st Class",
+      "area": "BSc (Hons) Computer Science | 1st Class - 85%",
       "startDate": "2017",
       "endDate": "2021",
       "text": [
-        "Dissertation: Experimental Analysis of View Synchronisation for Byzantine Consensus",
+        "Dissertation: Experimental Analysis of View Synchronisation Methods for Byzantine Consensus",
         "Student Ambassador for the Widening Participation & Outreach team",
         "Course Representative for Computer Science years 2 & 3"
       ]
@@ -71,6 +71,13 @@
     }
   ],
   "certificates": [
+    {
+      "name": "AWS Certified Developer - Associate",
+      "date": "2026-07-10",
+      "url": "https://www.credly.com/badges/cf1b8ee6-62e0-4806-96c3-54c98b07bc57",
+      "issuer": "Awarded by Amazon Web Services (AWS)",
+      "info": "Demonstrates proficiency with AWS services, CLIs, and SDKs; using containers, CI/CD pipelines and more, to develop and debug cloud-based applications following AWS best practices."
+    },
     {
       "name": "MongoDB Associate Developer",
       "date": "2023-03-22",
